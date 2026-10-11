@@ -1,8 +1,9 @@
 # Story Cards
 
-*Five stories, three contexts (work 1:1s, a volunteer organization,
-family). Told in my own words from real conversations. People are
-identified by role only, and dates are to the month.*
+*Six stories, four contexts (work 1:1s, a volunteer organization,
+family, building a tool at work). Told in my own words from real
+conversations. People are identified by role only, and dates are to the
+month.*
 
 ------------------------------------------------------------------------
 
@@ -127,3 +128,31 @@ and I'm not sure where it stops being coaching.
 
 **Where else I've seen it:**
 This is the card that complicates my hunch. See `open-questions.md`.
+
+------------------------------------------------------------------------
+
+## STORY 6: "The Slack bot that worked and nobody used"
+
+**Date captured:** August 2026 (it happened in summer 2024)
+**Context:** Work, building an AI tool
+
+**What happened:**
+I built a tool that connected underwriting guidance to Slack, using an
+OpenAI assistant and Zapier. I pitched it to a VP right after I finished
+an AI training course, built it with a director of data engineering
+consulting on the project, and piloted it with real stakeholders. It
+technically worked. Leadership's verdict was that it didn't add enough
+over what people already had. Sales found it slow and no better than the
+spreadsheet they already used, and they could already get comparative
+information by searching a document. It was never widely adopted.
+
+**What it revealed:**
+A working AI tool is not the same as a useful one. Building it in the
+open, failures included, also gave my team visible permission to try and
+fail themselves. When I told this story again later, the throughline
+was clear: the stalled first attempt produced the information the second
+attempt needed.
+
+**Where else I've seen it:**
+A teammate on the operations side watched this one stall and built a
+stronger tool on their own, without being asked.
