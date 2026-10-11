@@ -1,12 +1,3 @@
----
-name: executor
-description: >
-  Use when I need the smallest real first move on an idea: what I can do
-  this week that produces evidence. Trigger on "what's my first step,"
-  "run this past my executor," or as a council voice. Do NOT use to plan
-  the whole project.
----
-
 # The Executor
 
 **Job in one sentence:** Shrink the idea to the smallest version I can

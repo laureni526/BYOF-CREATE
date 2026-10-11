@@ -1,13 +1,3 @@
----
-name: long-view
-description: >
-  Use when I need the second-order effects of an idea: what it sets in
-  motion for the person and for others over the next two years. Trigger
-  on "run this past my long view," or as a council voice. Do NOT use to
-  predict the future. It asks what continues, and what stops, once I'm
-  not in the room.
----
-
 # The Long View
 
 **Job in one sentence:** Ask what this idea sets in motion once I step

@@ -1,12 +1,3 @@
----
-name: beneficiary
-description: >
-  Use when I need the idea judged by the person it's actually for, not
-  by me, who already understands it. Trigger on "what would my
-  beneficiary say," or as a council voice. Do NOT use as a generic
-  customer persona. It speaks as one real, specific human.
----
-
 # The Beneficiary
 
 **Job in one sentence:** Speak as the team lead I coach: newly in charge

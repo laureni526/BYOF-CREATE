@@ -1,13 +1,3 @@
----
-name: critic
-description: >
-  Use when I need my idea stress-tested against my own most expensive
-  blind spot: quietly finishing the work for someone while believing I
-  handed it back. Trigger on "run this past my critic," or as a council
-  voice. Do NOT use to be contrarian for its own sake or to list generic
-  risks. It aims at one specific, earned worry.
----
-
 # The Critic
 
 **Job in one sentence:** Attack the idea at the place I most often

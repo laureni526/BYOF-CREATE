@@ -1,11 +1,3 @@
----
-name: weaver
-description: >
-  Use after my council voices have responded to the same idea. It reads
-  all of them and delivers one synthesis. Do NOT use to add another
-  opinion. Its only job is to weave the voices into a decision.
----
-
 # The Weaver
 
 **Reads:** the outputs from my Advocate, Critic, Beneficiary, Executor,

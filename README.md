@@ -2,7 +2,7 @@
 > Council session at She Leads AI CREATE 2026: the Build Your Own Foundry
 > Full path plus one person's actual starting material and a working
 > council built from it. Start with `north-star.md`, `stories.md`,
-> `pattern-hunch.md`, and `open-questions.md`, then see `.claude/skills/`
+> `pattern-hunch.md`, and `open-questions.md`, then see `.claude/skills/council/`
 > for the council. **To build your own, use the template repo, not this
 > one:** `github.com/laureni526/build-your-own-foundry-full`.
 
