@@ -50,8 +50,8 @@ On your writing day, capture one story using the card structure
 What makes a story worth capturing? Not that it's impressive — that
 it's *specific*. A five-minute automation someone built without asking
 permission teaches more than an award. And capture the flops. In the
-original Foundry, the single most load-bearing story is a failure: a
-tool that technically worked and nobody used. Failures are evidence
+demo Foundry in this repo, the most load-bearing story is a failure: a
+tool that technically worked and nobody used (Story 6 in `stories.md`). Failures are evidence
 too — often the best kind, because nobody polishes them.
 
 If you're stuck on your writing day, use the workshop's prompts:

@@ -238,8 +238,8 @@ using this, and how?"
 Once the Minimum Viable Council runs, add voices that would genuinely
 change your thinking — and only those. Two of the next five have
 worked examples ready to build from right now; the rest are yours to
-invent, because Lauren doesn't have real material to demonstrate them
-with.
+invent, because the worked examples don't include real material to
+demonstrate them with.
 
 **Ready-made continuations — template and worked example included:**
 
