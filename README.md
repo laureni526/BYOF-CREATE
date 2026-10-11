@@ -54,9 +54,9 @@ fast one built on enthusiasm every time.
 
 Notice the order. Principles arrive at Stage 3, not Stage 1. The
 foundational documents come *last*. That's not a quirk of this path —
-that's the method itself, and it's how the original Foundry was
-actually built: its Constitution was written only after years of
-stories made it obvious.
+that's the method itself, and it's how a lasting system actually gets
+built: the constitution is written only after years of stories make it
+obvious.
 
 ------------------------------------------------------------------------
 
@@ -180,7 +180,7 @@ build, and what never to touch.
 
 # A Note on Tools (still deliberately last)
 
-The original Foundry lives in a GitHub repository. Yours doesn't have
+A Foundry can live in a GitHub repository. Yours doesn't have
 to. A notebook, a folder of documents, a notes app — anything you'll
 actually open every week works. Around Stage 3 or 4 you may want one
 file per library instead of one page for everything; let that need

@@ -43,8 +43,8 @@ Reread everything. Then ask, of each principle and pattern:
 
 The handful of beliefs where the answer is no — the ones every story,
 move, and principle quietly assumes — those are your Constitution.
-Expect it to be short. The original Foundry's fits on a few pages, and
-it was written *last*, after years, precisely so it would be a
+Expect it to be short. A good one fits on a few pages, and
+it's written *last*, after years, precisely so it would be a
 foundation instead of a wish list.
 
 Two properties to protect:

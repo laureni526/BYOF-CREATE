@@ -153,11 +153,11 @@ grounding *is* the skill.
 
 Before you write your first voice, read
 [`worked-examples/worked-example-advocate.md`](worked-examples/worked-example-advocate.md)
-— one real, finished voice from the original Foundry, grounded in an
+— one real, finished voice from a working council, grounded in an
 actual pattern hunch and named stories. Notice that every line points
 at specific evidence. That's the standard.
 
-All five of the original Foundry's voices are worked examples in
+All five voices of that working council are worked examples in
 **[`worked-examples/`](worked-examples/)**, in case you want to see the
 whole shape before you build, or want to move past the Core Three the
 same day:
@@ -238,8 +238,8 @@ using this, and how?"
 Once the Minimum Viable Council runs, add voices that would genuinely
 change your thinking — and only those. Two of the next five have
 worked examples ready to build from right now; the rest are yours to
-invent, because Lauren doesn't have real material to demonstrate them
-with.
+invent, because the worked examples don't include real material to
+demonstrate them with.
 
 **Ready-made continuations — template and worked example included:**
 

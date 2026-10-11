@@ -53,10 +53,9 @@ that taught it. If the underlying moment isn't written down anywhere in
 your source material, an extraction pass has two honest choices: leave
 that field blank, or flag it as something only you can supply. Making
 up a plausible-sounding moment to fill the gap is the one failure mode
-this pack exists to prevent — and it is *not* a hypothetical: the
-original Foundry has at least one story it knows it lost this way, a
-personal story its own facilitation notes reference by name but never
-actually wrote down, and its Open Questions record says plainly that it
+this pack exists to prevent — and it is *not* a hypothetical: it
+happens to real systems. A story gets referenced by name in session
+notes but never actually written down, and the honest record says it
 "should not be reconstructed from the session description alone."
 
 This is the same hard rule this whole repo already runs on — **never
