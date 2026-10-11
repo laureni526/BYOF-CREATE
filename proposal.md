@@ -101,7 +101,7 @@ buildathons for people learning AI for the first time. Facilitator for
 Women Who Rule, a leadership community for MBA women at Gies College of
 Business. She is delivering two sessions at She Leads AI CREATE 2026 (a
 90-minute agent build and the Foundry Council Buildathon) and the
-keynote "The Team That Taught Itself AI" at the Humans + AI Summit.
+keynote "The Team That Taught Itself AI" at the AI Fluent Professional Summit.
 
 ## Why this talk, and why CREATE
 
